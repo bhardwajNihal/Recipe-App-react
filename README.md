@@ -2,4 +2,4 @@
 - understood react routing, making this single page application
 - solidified hooks concepts
 - fetching data from API 
-- understood Context api in detail, and global state management
+- understood Context api and global state management in detail
