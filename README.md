@@ -1,3 +1,5 @@
 - A react app built with some advanced react concept
 - understood react routing, making this single page application
-- solidified hooks concepts and fetching data from apis
+- solidified hooks concepts
+- fetching data from API 
+- understood Context api in detail, and global state management
